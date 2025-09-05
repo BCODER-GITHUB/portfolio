@@ -17,9 +17,9 @@
 ## 💼 Tech Stack
 
 - **Languages:** PHP, JavaScript, SQL  
-- **Frameworks:** Laravel, Blade, Livewire  
+- **Frameworks:** Laravel  
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Composer, Postman, VS Code  
+- **Tools:** Git, Postman, VS Code  
 - **Others:** MVC Architecture, REST APIs, API Integrations, Security Best Practices  
 
 ---
